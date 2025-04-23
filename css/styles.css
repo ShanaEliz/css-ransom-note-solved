@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiko:wght@400;600;700&family=Carter+One&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 * {
   padding: 0;
@@ -83,222 +86,389 @@ body {
 /* DID word */
 
 .didDLetter {
+  font-size: 14px;
 }
 
 .didILetter {
+  font-size: 16px;
 }
 
 .didDTwoLetter {
+  font-size: 18px;
 }
 
 /* THE word */
 
 .theTLetter {
+  font-size: 20px;
 }
 
 .theHLetter {
+  font-size: 22px;
 }
 
 .theELetter {
+  font-size: 24px;
 }
 
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-size: 26px;
 }
 
 .frontendRLetter {
+  font-size: 28px;
 }
 
 .frontendOLetter {
+  font-size: 30px;
 }
 
 .frontendNLetter {
+  font-size: 32px;
 }
 
 .frontendTLetter {
+  ffont-size: 34px;
 }
 
 .frontendELetter {
+  font-size: 36px;
 }
 
 .frontendNTwoLetter {
+  font-size: 38px;
 }
 
 .frontendDLetter {
+  font-size: 40px;
 }
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  font-size: 42px;
 }
 .developerELetter {
+  font-size: 44px;
 }
 .developerVLetter {
+  font-size: 46px;
 }
 .developerETwoLetter {
+  font-size: 48px;
 }
 .developerLLetter {
+  font-size: 50px;
 }
 .developerOLetter {
+  font-size: 52px;
 }
 .developerPLetter {
+  font-size: 54px;
 }
 .developerEThreeLetter {
+  font-size: 56px;
 }
 .developerRLetter {
+  font-size: 58px;
 }
 
 /* TAKE word */
 
 .takeTLetter {
+  font-size: 60px;
 }
 .takeALetter {
+  font-size: 62px;
 }
 .takeKLetter {
+  font-size: 64px;
 }
 .takeELetter {
+  font-size: 66px;
 }
 
 /* UP word */
 
 .upULetter {
+  font-size: 68px;
 }
 .upPLetter {
+  font-size: 70px;
 }
 
 /* GARDENING word */
 
 .gardeningGLetter {
+  font-size: 72px;
 }
+
 .gardeningALetter {
+  font-size: 74px;
 }
+
 .gardeningRLetter {
+  font-size: 76px;
 }
+
 .gardeningDLetter {
+  font-size: 78px;
 }
+
 .gardeningELetter {
+  font-size: 80px;
 }
+
 .gardeningNLetter {
+  font-size: 82px;
 }
+
 .gardeningILetter {
+  font-size: 84px;
 }
+
 .gardeningNTwoLetter {
+  font-size: 86px;
 }
+
 .gardeningGTwoLetter {
+  font-size: 88px;
 }
 
 /* BECAUSE word */
 
 .becauseBLetter {
+  font-size: 90px;
 }
+
 .becauseELetter {
+  font-size: 92px;
 }
+
 .becauseCLetter {
+  font-size: 94px;
 }
+
 .becauseALetter {
+  font-size: 96px;
 }
+
 .becauseULetter {
+  font-size: 98px;
 }
+
 .becauseSLetter {
+  font-size: 100px;
 }
+
 .becauseETwoLetter {
+  font-size: 102px;
 }
 
 /* THEY word */
 
 .theyTLetter {
+  font-size: 84px;
 }
+
 .theyHLetter {
+  font-size: 82px;
 }
+
 .theyELetter {
+  font-size: 80px;
 }
+
 .theyYLetter {
+  font-size: 78px;
 }
 
 /* WANTED word */
 
 .wantedWLetter {
+  font-size: 76px;
 }
+
 .wantedALetter {
+  font-size: 74px;
 }
+
 .wantedNLetter {
+  font-size: 72px;
 }
+
 .wantedTLetter {
+  font-size: 70px;
 }
+
 .wantedELetter {
+  font-size: 68px;
 }
+
 .wantedDLetter {
+  font-size: 66px;
 }
 
 /* TO word */
 
 .toTLetter {
+  font-size: 64px;
 }
+
 .toOLetter {
+  font-size: 62px;
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+  font-size: 60px;
 }
+
 .improveMLetter {
+  font-size: 58x;
 }
-.improvePLetter {
+
+.improvePLetter {  
+  font-size: 56px;
 }
+
 .improveRLetter {
+  font-size: 54px;
 }
-.improveOLetter {
+
+.improveOLetter {  
+  font-size: 52px;
 }
+
 .improveVLetter {
+  font-size: 50px;
 }
+
 .improveELetter {
+  font-size: 48px;
 }
 
 /* THEIR word */
 
 .theirTLetter {
+  font-size: 46px;
 }
 .theirHLetter {
+  font-size: 44px;
 }
 .theirELetter {
+  font-size: 42px;
 }
 .theirILetter {
+  font-size: 40px;
 }
 .theirRLetter {
+  font-size: 38px;
 }
 
 /* ROOT word */
 
 .rootRLetter {
+  font-size: 36px;
 }
 .rootOLetter {
+  font-size: 34px;
 }
 .rootOTwoLetter {
+  font-size: 32px;
 }
 .rootTLetter {
+  font-size: 30px;
 }
 
 /* SKILLS word */
 
 .skillsSLetter {
+  font-size: 28x;
 }
 .skillsKLetter {
+  font-size: 26px;
 }
 .skillsILetter {
+  font-size: 24px;
 }
 .skillsLLetter {
+  font-size: 22px;
 }
 .skillsLTwoLetter {
+  font-size: 20px;
 }
 .skillsSTwoLetter {
+  font-size: 18px;
 }
 
 /* SYMBOLS */
 
 .hyphen {
+  font-size: large;
 }
 .exclamation-mark {
+  font-size: medium;
 }
 .question-mark {
+  font-size: larger;
+}
+
+.yellow {
+  color: yellow;
+  text-decoration: line-through;
+  font-weight: bold;
+  text-transform: lowercase;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.green {
+  color: green;
+  text-decoration: overline;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.red {
+  color: red;
+  text-decoration: underline;
+  font-weight: 400;
+  text-transform: none;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.purple {
+  color: purple;
+  text-decoration: none;
+  font-weight: 700;
+  text-transform: capitalize;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.rgb {
+  color: rgb(255, 99, 71);
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hex {
+  color: #ffa500;
+  text-decoration: overline;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hsl {
+  color: hsl(95 85% 50%);
+  text-decoration: line-through;
+  text-transform: none;
+  font-weight: 200;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
